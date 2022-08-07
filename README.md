@@ -5,4 +5,4 @@ here is how it looks now:
 ![image](https://i.imgur.com/XZq7w0Y.png)  
   
 ### download
-[click me!](https://carrotguy69.github.io/darkdiscord/index.html)
+[click me!](https://carrotguy69.github.io/darkdiscord/root/download.html)
